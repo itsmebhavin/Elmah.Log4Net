@@ -1,0 +1,9 @@
+D:\Project\Elmah.Log4Net\obj\Debug\Elmah.Log4Net.csprojResolveAssemblyReference.cache
+D:\Project\Elmah.Log4Net\bin\Debug\Elmah.Log4Net.dll
+D:\Project\Elmah.Log4Net\bin\Debug\Elmah.Log4Net.pdb
+D:\Project\Elmah.Log4Net\bin\Debug\Elmah.dll
+D:\Project\Elmah.Log4Net\bin\Debug\log4net.dll
+D:\Project\Elmah.Log4Net\bin\Debug\System.Data.SqlServerCe.dll
+D:\Project\Elmah.Log4Net\bin\Debug\log4net.xml
+D:\Project\Elmah.Log4Net\obj\Debug\Elmah.Log4Net.dll
+D:\Project\Elmah.Log4Net\obj\Debug\Elmah.Log4Net.pdb
