@@ -106,10 +106,10 @@ That's it....
 
 ##### Thank You 
 Bhavin Patel
-www.itsmebhavin.wordpress.com
-https://plus.google.com/collection/wLUrb (Android Hybrid App)
-https://plus.google.com/collection/EWXpb (HTML, Angular, Node, React etc)
-https://plus.google.com/collection/Iuknb (.NET)
+- www.itsmebhavin.wordpress.com
+- https://plus.google.com/collection/wLUrb (Android Hybrid App)
+- https://plus.google.com/collection/EWXpb (HTML, Angular, Node, React etc)
+- https://plus.google.com/collection/Iuknb (.NET)
 
 
 
