@@ -102,7 +102,7 @@ That's it....
 
 
 ### TODO
-- I will make Nuget Package for this so that it's easy to find it at once place.
+- Need to make nuget for this
 
 ##### Thank You 
 Bhavin Patel
