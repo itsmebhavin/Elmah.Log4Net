@@ -85,6 +85,7 @@ That's it....
         public bool UserAuthorized()
         {
             int state, mode;
+            protected static readonly ILog log = LogManager.GetLogger(typeof(DataService)); //Assuming class name is DataService
             try
             {
                 log.Info("Request to authorize user : " + AuthHeader.Username);
